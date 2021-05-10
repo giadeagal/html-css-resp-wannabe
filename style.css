@@ -35,6 +35,14 @@
   text-align: center;
 }
 
+@media screen and (min-width: 480px) {
+  .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 /* BLOCCO PERCHE */
 #why {
   text-align: center;
