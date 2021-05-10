@@ -97,6 +97,11 @@ img {
     display: none;
   }
 
+  #lezioni .row>.left,
+  #lezioni .row>.right {
+    width: 100%;
+  }
+  
   .row>.left,
   .row>.central,
   .row>.right {
